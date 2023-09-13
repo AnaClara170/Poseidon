@@ -1,0 +1,192 @@
+@font-face {
+    font-family:'gloria';
+    src: url(../Fonts/GloriaHallelujah-Regular\ \(1\).ttf);
+    }
+    @font-face {
+    font-family: 'GFS';
+    src: url("../Fonts/GFSNeohellenic-Regular\ \(1\).ttf");
+}
+    @font-face {
+        font-family: 'Germania';
+        src: url("../Fonts/GermaniaOne-Regular.ttf");
+    }
+    @font-face {
+        font-family: 'Glory';
+        src: url("../Fonts/Glory-Italic-VariableFont_wght.ttf");
+    }
+.cor{
+    background-color: rgb(67, 129, 243);
+} 
+a{
+    color: black;
+}
+#Início {
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    background-color: rgb(0, 0, 255);
+    color:rgb(0, 0, 0);
+    font-family:'gloria';
+    font-size: 45px;
+}
+
+#meio1 {
+    margin-top: -15px;
+}
+#texto {
+    margin-left: 330px;
+    margin-top: 100px;
+    text-align: center;
+    font-size: 36px;
+    font-family:'GFS';
+    height: 100px;
+    width: 790px; 
+}
+
+#Fundo {
+    display: flex;
+    flex-direction: space-between;
+    background-color: #3F0071;
+    height: 500px;
+    font-size: 20px;
+    font-family: 'system-ui';
+}
+
+#menu{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 400px;
+    margin-left: 150px;
+    height: 500px;
+    text-align: center;
+    font-family: 'Germania';
+    font-size: 25px;
+}
+#genealogia {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    flex-direction: column;
+    margin-left: 150px;
+    height: 800px;
+    width: 400px;
+    font-size: 28px;
+    font-family:'Glory';
+}
+#Separa {
+   justify-content: baseline;
+   display: flex;
+   justify-content: center;
+   height: 500px;
+   width: 700px;
+   background-color: rgb(67, 129, 243);
+   margin-left: 500px;
+}
+#Poseidon1 {
+    margin-top: 15px;
+    width: 433px;
+    height: 427px;
+    border-radius: 15px;
+    border: 15px solid #5F00A9;
+}
+#Meio2 {
+    display: flex;
+    height: 70px;
+    width: 100%;
+    background-color: rgb(0, 0, 255);
+}
+#Poseidon2 {
+    margin-top: 50px;
+    width: 400px;
+    height: 400px;
+    border: 15px  #5F00A9;
+    border: 15px solid #5F00A9 ;
+    border-radius: 400px;
+}
+#parte2{
+    display: flex;
+    justify-content: baseline;
+    height: 1050px;
+}
+#Parte3 {
+    display:flex;
+    justify-content: space-around;
+    height:700px;
+}
+#Poseidon3 {
+    margin-top: -70px;
+    height: 684px;
+    width: 531px;
+    border: 20px solid #5F00A9;
+    border-radius: 20px ;
+    margin-right: 100px;
+}
+#Foto1 {
+    margin-top: -90px;
+    margin-left: 100px;
+    height: 684px;
+    width: 531px;
+    border: 20px solid #5F00A9;
+    border-radius: 55px ;
+}
+#irmãos {
+    justify-content: center;
+    margin-top: -15px;
+    font-size: 35px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: 'GFS';
+    height: 50px;
+    width: 300px;
+    background-color: rgb(67, 129, 243);
+}
+#Meio3 {
+    display: flex;
+    height: 70px;
+    width: 100%;
+    background-color: rgb(0, 0, 255);
+}
+#Final {
+    display: flex;
+    justify-content: baseline;
+    justify-content: space-around;
+}
+#Indicações {
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 200px;
+    height: 500px;
+    width: 400px;
+    font-size: 20px;
+}
+#Perfil {
+    display: flex;
+    justify-content: baseline;
+    justify-content: space-around;
+    margin-top: 90px;
+    height: 500px;
+    width: 1000px;
+    background-color: #9704AF;
+    border-radius: 30px;
+}
+#Perfil2 {
+    margin-top: 90px;
+    width: 550px;
+    height: 50px;
+    margin-left: -40px;
+    font-size: 25px;
+    font-family: 'glory';
+}
+#Foto2 {
+    height: 396px;
+    width: 242px;
+    margin-top: 50px;
+    margin-right: 40px;
+}
+#azul {
+    display: flex;
+    height: 70px;
+    width: 100%;
+    background-color: rgb(0, 0, 255);
+}
